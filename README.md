@@ -24,4 +24,4 @@ This is a project that will allow you to draw something on the screen.
 **Front-end:**
 
 * HTML
-* CSS
+* CSS (flexbox, grid)
