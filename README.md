@@ -25,3 +25,4 @@ This is a project that will allow you to draw something on the screen.
 
 * HTML
 * CSS (flexbox, grid)
+* React basics
